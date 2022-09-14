@@ -23,3 +23,9 @@ https://www.youtube.com/watch?v=e2N09m09URE&list=PLPbeWYWLwPjBZnGLtcGu-Brst7LBIU
 
 
 ## Gameplay Snapshots
+
+<img src="images/vga_game_menu.png" width="500" >
+<img src="images/vga_gameplay_1.png" width="500" >
+<img src="images/vga_gameplay_2.png" width="500" >
+<img src="images/vga_gameplay_3.png" width="500" >
+<img src="images/vga_gameplay_4.png" width="500" >
