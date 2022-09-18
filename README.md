@@ -4,7 +4,7 @@
 
 --> The main source code files are top_VGA_game.v, vga_ctrl.v, vga_game.v, clk_div, bin2bcd.v and pb_debounce.v
 
---> Movements are given to the objects in the game by rapidly changing their positions using the concept of FSMs.
+--> Movements are given to the objects in the game by rapidly changing their positions using the concept of finite state machines (FSMs).
 
 --> The velocities given to some objects are also varied with FSMs to imitate the effect of acceleration, deceleration and gravity.
 
